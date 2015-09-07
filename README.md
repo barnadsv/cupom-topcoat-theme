@@ -1,6 +1,6 @@
-theme
-=====
+cupom-topcoat-theme
+===================
 
-Topcoat default theme
+cupom Topcoat test themes
 
-This supplies the styling and platform specific properties to Topcoat base components.
+Testing different colors for cupom Topcoat Themes
