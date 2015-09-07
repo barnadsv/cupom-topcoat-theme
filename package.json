@@ -1,0 +1,18 @@
+{
+  "name": "cupom-topcoat-theme",
+  "version": "0.0.1",
+  "description": "Themes for cupom Topcoat components",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/barnadsv/cupom-topcoat-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "topcoat",
+    "css",
+    "adobe"
+  ],
+  "author": "Leonardo Barnabé",
+  "license": "Apache2"
+}
